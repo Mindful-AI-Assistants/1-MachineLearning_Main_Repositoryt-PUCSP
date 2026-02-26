@@ -11,6 +11,60 @@
 
 This is the **MAIN ML REPO** for all weekly classes, notes, Jupyter notebooks, code examples (PyTorch & TensorFlow), projects, and seminars. Organized by the official syllabus to house **every single weekly lesson** from February to June 2026. Future sub-repos (e.g., for specific projects) will link back here.
 
+
+<br><br>
+
+
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  
+[**School:**]() Faculty of Interdisciplinary Studies  
+[**Program:**]() Humanistic AI and Data Science
+[**Semester:**]() 2nd Semester 2025  
+Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
+
+<br><br>
+
+#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
+<br><br>
+
+<!--Confidentiality statement -->
+
+#
+
+<br><br><br>
+
+> [!IMPORTANT]
+> 
+> ⚠️ Heads Up
+>
+> * Projects and deliverables may be made [publicly available]() whenever possible.
+> * The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Data Analysis and Data Mining** for partner organizations and institutions affiliated with the university.
+> * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+> * Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().  
+>
+
+
+<br><br>
+
+#
+
+<!--END-->
+
+
+<br><br><br>
+
+
+
+<!-- PUC HEADER GIF -->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d6324da-9468-455e-b8d1-2cce8bb63b06" />
+
+
+<br><br><br><br>  
+
+
 ## What is Machine Learning? (Kid-Friendly Explanation) 🌈
 Imagine teaching a robot puppy to fetch a ball. You show it many examples (data), it tries, makes mistakes, and gets better each time – without you telling it every single step. That's Machine Learning (ML)! Computers learn patterns from data, like how kids learn by playing and trying.  
 
