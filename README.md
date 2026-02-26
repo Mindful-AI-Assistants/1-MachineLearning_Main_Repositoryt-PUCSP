@@ -44,11 +44,11 @@ Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes
 > ⚠️ Heads Up
 >
 > * Projects and deliverables may be made [publicly available]() whenever possible.
-> * The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Data Analysis and Data Mining** for partner organizations and institutions affiliated with the university.
+> * The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Machine Learning and Neural Networks** for partner organizations and institutions affiliated with the university.
 > * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
 > * Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().  
+> <br>
 >
-
 
 <br><br>
 
