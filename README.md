@@ -98,9 +98,10 @@
 
 Imagine teaching a robot puppy to fetch a ball. You show it many examples (data), it tries, makes mistakes, and gets better each time – without you telling it every single step. That's Machine Learning (ML)! Computers learn patterns from data, like how kids learn by playing and trying.  
 
-<br>
+<br><br>
 
-### [**Key topics here:**()
+
+## [**Key topics here:**]()
 
 <br>
 
@@ -112,7 +113,11 @@ Imagine teaching a robot puppy to fetch a ball. You show it many examples (data)
 
 
 
+<br><br>
+
 ## Table of Contents
+
+
 - [Course Objectives](#course-objectives)
 - [Weekly Classes](#weekly-classes)
 - [Assessment](#assessment)
@@ -121,11 +126,27 @@ Imagine teaching a robot puppy to fetch a ball. You show it many examples (data)
 - [How to Use This Repo](#how-to-use-this-repo)
 - [Professor Info](#professor-info)
 
+
+<br><br>
+
+
 ## Course Objectives
+
+<br>
+
 Present basic and advanced concepts of artificial neural networks (ANNs), their biological inspiration, and real-world applications. Focus on building practical systems with supervised/unsupervised models like MLPs, CNNs, RNNs, GANs, and Reinforcement Learning. Includes extensionist projects for social good (open-source repos for communities). [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
 
+
+<br><br>
+
 ## Weekly Classes
+
 All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/`, etc. Update as classes happen.
+
+<br>
+
+
+
 
 | Week | Date       | Topic Summary                                                                 | Notes/Files Placeholder                  |
 |------|------------|-------------------------------------------------------------------------------|------------------------------------------|
@@ -148,7 +169,10 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 | 18   | 18 Jun    | **Seminar 2**                                                                 | `/seminar-2/`                   |  
 
 
+
 <br><br>
+
+
 
 ## Assessment
 
@@ -159,6 +183,7 @@ Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuo
 
 
 <br><br>
+
 
 ## How to Use This Repo
 
