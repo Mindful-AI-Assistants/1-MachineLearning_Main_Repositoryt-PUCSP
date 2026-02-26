@@ -6,7 +6,7 @@
 <br><br>
 
 
-#  <p align="center"> 1- [Machine Learning]() / [Main Repository]()
+#  <p align="center"> 1- 🧠 [Machine Learning]() / [Main Repository]()
 
 
 This is the **MAIN ML REPO** for all weekly classes, notes, Jupyter notebooks, code examples (PyTorch & TensorFlow), projects, and seminars. Organized by the official syllabus to house **every single weekly lesson** from February to June 2026. Future sub-repos (e.g., for specific projects) will link back here.
@@ -14,7 +14,7 @@ This is the **MAIN ML REPO** for all weekly classes, notes, Jupyter notebooks, c
 
 <br><br>
 
-Machine Learning Integrated Project - PUC-SP 5th Semester (2026) 🤖🧠
+Machine Learning Integrated Project - PUC-SP 5th Semester (2026)
 Course Repo: PROJETO INTEGRADO: APRENDIZADO DE MÁQUINA
 Professor: Rooney Ribeiro Albuquerque Coelho
 Program: Data Science and Humanistic Artificial Intelligence
