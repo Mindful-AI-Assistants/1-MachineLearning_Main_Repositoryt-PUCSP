@@ -116,29 +116,46 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 | 17   | 11 Jun    | Reinforcement Learning: Agents, Markov processes, Q-Learning, SARSA.          | `/week-17/rl/`  [               |
 | 18   | 18 Jun    | **Seminar 2**                                                                 | `/seminar-2/`                   |  
 
+
+<br><br>
+
 ## Assessment
+
 - **Seminar 1 (16 Apr 2026)**: Individual, weight 0.5. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
 - **Seminar 2 (18 Jun 2026)**: Individual, weight 0.5. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
 Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuous evals.
 
 
+<br><br>
+
 ## How to Use This Repo
+
 1. Clone: `git clone https://github.com/yourusername/PUC-SP-ML-Integrated-Project-2026.git`.  
 2. Add weekly folders with `README.md`, `.ipynb`, `.py` files.  
 3. For PyTorch (local/Apple M): `pip install torch`. Fast on M-chips!  
 4. TensorFlow: `pip install tensorflow`.  
-5. Run notebooks in Colab or Jupyter. Share publicly for extensionist credit. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
+5. Run notebooks in Colab or Jupyter. Share publicly for extensionist credit. [ppl-ai-file-upload.s3.amazonaws]
 
 ## Professor Info
-**Rooney Ribeiro Albuquerque Coelho** – Expert in neural networks, PyTorch/TensorFlow, practical ML projects. Contact via PUC-SP. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
+**Rooney Ribeiro Albuquerque Coelho** – Expert in neural networks, PyTorch/TensorFlow, practical ML projects. Contact via PUC-SP. 
+
+<br><br>
+
 
 ## Bibliographic References
+
+<br><br>
+
 ### Basic
-- NETTO, A.; MACIEL, F. *Python for data science and machine learning made simple*. Alta Books, 2021. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
-- SILVA, F. M. da et al. *Artificial Intelligence: Applications in various human activities*. Sagah, 2019. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
-- WITTEN, I. H. et al. *Artificial Intelligence: A machine learning approach*. LTC, 2021. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
+- NETTO, A.; MACIEL, F. *Python for data science and machine learning made simple*. Alta Books, 2021. [ppl-ai-file-upload.s3.amazonaws]
+- SILVA, F. M. da et al. *Artificial Intelligence: Applications in various human activities*. Sagah, 2019. [ppl-ai-file-upload.s3.amazonaws]
+- WITTEN, I. H. et al. *Artificial Intelligence: A machine learning approach*. LTC, 2021. [ppl-ai-file-upload.s3.amazonaws]
+
+
+<br>
 
 ### Complementary
+
 - BIFET, A. et al. *Machine learning for data streams*. MIT Press, 2018. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
 - CANO, A. *Social media and machine learning*. IntechOpen, 2020. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
 - HUTTER, F.; KOTTHOFF, L.; VANSCHOREN, J. *Automated machine learning: methods, systems, challenges*. Springer Nature, 2019. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
