@@ -20,10 +20,10 @@ Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP) <br>
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
-Course Repo: INTEGRATED PROJECT: MACHINE LEARNING
-Professor: Rooney Ribeiro Albuquerque Coelho
-Program: Data Science and Artificial Intelligence (Humanistic AI and Data Science)
-Extensionist Activities: 10 hours (social projects with open-source software for community support).
+[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING  <br>
+[Professor:]() [Rooney Ribeiro Albuquerque Coelho]()  <br>
+[Program:]() Data Science and Artificial Intelligence (Humanistic AI and Data Science)  <br>
+[Extensionist Activities:]() Social projects with open-source software for community support.  <br>
 
 
 <br><br>
