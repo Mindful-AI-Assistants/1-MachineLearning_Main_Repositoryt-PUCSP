@@ -269,7 +269,17 @@ Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuo
 <br>
 
 
-### [Basic]()
+### * [Core Literature:]()
+
+[-]() Goodfellow et al. Deep Learning (2016) - All architectures  <br>
+[-]() LeCun et al. LeNet CNN (1998) - Computer Vision  <br>
+[-]() Hochreiter LSTM (1997) - Sequential Data  <br>
+[-]() Goodfellow GAN (2014) - Data Generation  <br>
+
+<br>
+
+
+### * [Basic]()
 
 [-]() NETTO, A.; MACIEL, F. *Python for data science and machine learning made simple*. Alta Books, 2021. [ppl-ai-file-upload.s3.amazonaws] <br>
 [-]() SILVA, F. M. da et al. *Artificial Intelligence: Applications in various human activities*. Sagah, 2019. [ppl-ai-file-upload.s3.amazonaws] <br>
@@ -278,7 +288,7 @@ Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuo
 
 <br>
 
-### [Complementary]()
+### * [Complementary]()
 
 [-]() BIFET, A. et al. *Machine learning for data streams*. MIT Press, 2018.  <br>
 [-]() CANO, A. *Social media and machine learning*. IntechOpen, 2020.  <br>
@@ -295,6 +305,7 @@ Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuo
 
 
 <!-- ======================================= Start DEFAULT Footer ===========================================  -->
+
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
