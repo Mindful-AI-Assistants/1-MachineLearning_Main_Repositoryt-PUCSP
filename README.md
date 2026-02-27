@@ -142,7 +142,23 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 
 <br>
 
-Present basic and advanced concepts of artificial neural networks (ANNs), their biological inspiration, and real-world applications. Focus on building practical systems with supervised/unsupervised models like MLPs, CNNs, RNNs, GANs, and Reinforcement Learning. Includes extensionist projects for social good (open-source repos for communities). [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
+Present basic and advanced concepts of artificial neural networks (ANNs), their biological inspiration, and real-world applications. Focus on building practical systems with supervised/unsupervised models like MLPs, CNNs, RNNs, GANs, and Reinforcement Learning. Includes extensionist projects for social good (open-source repos for communities). 
+
+
+<br><br>
+
+
+
+## [Course Overviews]() 
+
+<br>
+
+| **Architecture** | **Complete Application** |
+|------------------|--------------------------|
+| **CNN** | **Computer Vision** |
+| **MLP** | **Classic Neural Networks** |
+| **RNN** | **Sequential Data** |
+| **GAN** | **Data Generation** |
 
 
 <br><br>
