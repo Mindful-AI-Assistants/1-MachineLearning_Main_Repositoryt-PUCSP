@@ -225,9 +225,9 @@ Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuo
 
 ### [Complementary]()
 
-- BIFET, A. et al. *Machine learning for data streams*. MIT Press, 2018. [ppl-ai-file-upload.s3.amazonaws] <br>
-- CANO, A. *Social media and machine learning*. IntechOpen, 2020. [ppl-ai-file-upload.s3.amazonaws] <br>
-- HUTTER, F.; KOTTHOFF, L.; VANSCHOREN, J. *Automated machine learning: methods, systems, challenges*. Springer Nature, 2019. [ppl-ai-file-upload.s3.amazonaws] <br>
-- SUD, K. et al. *Introduction to data science and machine learning*. IntechOpen, 2020. [ppl-ai-file-upload.s3.amazonaws] <br>
-- THOMAS, C. *Data mining*. IntechOpen, 2018. [ppl-ai-file-upload.s3.amazonaws]
+[-]() BIFET, A. et al. *Machine learning for data streams*. MIT Press, 2018. [ppl-ai-file-upload.s3.amazonaws] <br>
+[-]() CANO, A. *Social media and machine learning*. IntechOpen, 2020. [ppl-ai-file-upload.s3.amazonaws] <br>
+[-]() HUTTER, F.; KOTTHOFF, L.; VANSCHOREN, J. *Automated machine learning: methods, systems, challenges*. Springer Nature, 2019. [ppl-ai-file-upload.s3.amazonaws] <br>
+[-]() SUD, K. et al. *Introduction to data science and machine learning*. IntechOpen, 2020. [ppl-ai-file-upload.s3.amazonaws] <br>
+[-]() THOMAS, C. *Data mining*. IntechOpen, 2018. [ppl-ai-file-upload.s3.amazonaws]
 
