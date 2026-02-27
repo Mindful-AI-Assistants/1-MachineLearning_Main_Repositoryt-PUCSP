@@ -223,18 +223,21 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 
 <br>
 
-/computer-vision/ ← CNN - Computer Vision
-/classic-nn/ ← MLP - Classic Neural Networks
-/sequential-data/ ← RNN - Sequential Data
-/data-generation/ ← GAN - Data Generation
-/projects/ ← Multi-architecture projects
+/computer-vision/ ← CNN - Computer Vision <br>
+/classic-nn/ ← MLP - Classic Neural Networks  <br>
+/sequential-data/ ← RNN - Sequential Data <br>
+/data-generation/ ← GAN - Data Generation  <br>
+/projects/ ← Multi-architecture projects <br>
 /notebooks/ ← Demo implementations
 
 
 <br><br>
 
 
-## Related Project Repositories 
+## [Related Project Repositories]() 
+
+
+<br>
 
 | Project | Architecture | Status |
 |---------|--------------|--------|
@@ -242,6 +245,9 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 | Time Series | RNN | Coming Soon |
 | Image Generator | GAN | Coming Soon |
 
+
+
+<br><br>
 
 ## [Assessment]()
 
