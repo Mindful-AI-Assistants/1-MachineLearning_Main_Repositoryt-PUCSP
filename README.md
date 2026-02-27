@@ -256,7 +256,7 @@ Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuo
 [2.]() Add weekly folders with `README.md`, `.ipynb`, `.py` files.  
 [3.]() For PyTorch (local/Apple M): `pip install torch`. Fast on M-chips!  
 [4.]() TensorFlow: `pip install tensorflow`.  
-[5.]() Run notebooks in Colab or Jupyter. Share publicly for extensionist credit. [ppl-ai-file-upload.s3.amazonaws]
+[5.]() Run notebooks in Colab or Jupyter. Share publicly for extensionist credit. 
 
 
 
