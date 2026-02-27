@@ -173,6 +173,8 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 
 ## [Architecture Applications]()  
 
+<br>
+
 | **Acronym** | **Full Name** | **Primary Application** | **Real-World Use** |
 |-------------|---------------|-------------------------|-------------------|
 | **CNN** | Convolutional Neural Network | **Computer Vision** | Image classification, object detection, facial recognition |
@@ -284,8 +286,9 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 
 <br>
 
-- [**Seminar 1 (16 Apr 2026)**:]() Individual, weight 0.5. 
-- [**Seminar 2 (18 Jun 2026)**:]() Individual, weight 0.5.
+[-]() [**Seminar 1 (16 Apr 2026)**:]() Individual, weight 0.5. <br>
+[-]() [**Seminar 2 (18 Jun 2026)**:]() Individual, weight 0.5.
+
 
 <br>
 
@@ -295,13 +298,13 @@ Methods: Dialogued lectures, [TF]() / [PyTorch]() projects, active methodologies
 <br><br>
 
 
-## Learning Resources 
+## [Learning Resources]()
 
 <br>
 
 [-]() PyTorch Tutorials <br>
 [-]() Fast.ai Practical Deep Learning <br>
-[-]() Papers With Code <br>
+[-]() Papers With Code 
 
 
 <br><br>
@@ -333,7 +336,7 @@ pip install torch torchvision tensorflow pandas numpy matplotlib wandb
 
 
 
-
+<br><br>
 
 
 
