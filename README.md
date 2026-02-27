@@ -292,10 +292,16 @@ Methods: Dialogued lectures, [TF]() / [PyTorch]() projects, active methodologies
 <br><br>
 
 
+## Learning Resources 
+
+<br>
+
+[-]() PyTorch Tutorials <br>
+[-]() Fast.ai Practical Deep Learning <br>
+[-]() Papers With Code <br>
 
 
-
-
+<br><br>
 
 
 
