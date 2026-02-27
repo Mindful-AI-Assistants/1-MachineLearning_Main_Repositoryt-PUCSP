@@ -86,7 +86,7 @@
 
 
 
-## What is Machine Learning? (Kid-Friendly Explanation) 
+## [What is Machine Learning?]() (Kid-Friendly Explanation) 
 
 <br>
 
@@ -170,7 +170,7 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 
 
 
-## Assessment]()
+## [Assessment]()
 
 
 <br>
@@ -201,9 +201,9 @@ Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuo
 ## [Professor Info]()
 
 
-<br><
+<br>
 
-**Rooney Ribeiro Albuquerque Coelho** – Expert in neural networks, PyTorch/TensorFlow, practical ML projects. Contact via PUC-SP. 
+[**Rooney Ribeiro Albuquerque Coelho**]() – Expert in neural networks, PyTorch/TensorFlow, practical ML projects. Contact via PUC-SP. 
 
 
 <br><br>
@@ -217,8 +217,8 @@ Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuo
 ### [Basic]()
 
 [-]() NETTO, A.; MACIEL, F. *Python for data science and machine learning made simple*. Alta Books, 2021. [ppl-ai-file-upload.s3.amazonaws]
-- SILVA, F. M. da et al. *Artificial Intelligence: Applications in various human activities*. Sagah, 2019. [ppl-ai-file-upload.s3.amazonaws]
-- WITTEN, I. H. et al. *Artificial Intelligence: A machine learning approach*. LTC, 2021. [ppl-ai-file-upload.s3.amazonaws]
+[-]() SILVA, F. M. da et al. *Artificial Intelligence: Applications in various human activities*. Sagah, 2019. [ppl-ai-file-upload.s3.amazonaws]
+[-]() WITTEN, I. H. et al. *Artificial Intelligence: A machine learning approach*. LTC, 2021. [ppl-ai-file-upload.s3.amazonaws]
 
 
 <br>
