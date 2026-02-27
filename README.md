@@ -17,7 +17,7 @@
 <!-- CNN Video -->
 
 
-https://github.com/user-attachments/assets/28046748-379f-4584-bb34-cf88b6f7289f
+
 
 
 <!-- PUC HEADER GIF 
