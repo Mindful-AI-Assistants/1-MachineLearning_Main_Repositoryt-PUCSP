@@ -129,16 +129,15 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 - [Course Overview](#course-overview)
 - [Core Learning Pillars](#core-learning-pillars)
 - [Architecture Applications](#architecture-applications) 
-- [Weekly Classes](#weekly-classes)
+- [Weekly Classes - Sub-Repositories](#weekly-classes-sub-repositories)
 - [Folder Structure](#folder-structure)
 - [Related Project Repositories](#related-project-repositories)
+- [How to Use This Repo](#how-to-use-this-repo)
 - [Grading & Assessment](#grading--assessment)
 - [Learning Resources](#learning-resources)
 - [Tooling Stack](#tooling-stack)
 - [Contributing Guidelines](#contributing-guidelines)
 - [Bibliographic References](#bibliographic-references)
-- [Sub-Repositories](#sub-repositories)
-- [How to Use This Repo](#how-to-use-this-repo)
 - [Professor Info](#professor-info)
 
 
@@ -198,7 +197,7 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 <br>
 
 
-| [Week]() | [Date]()       | [Topic Summary]()                                                            | [Notes/Files Placeholder]()                  |
+| [Week]() | [Date]()       | [Sub-repositories - Topic Summary]()                                 | [Notes/Files Placeholder]()                  |
 |------|------------|-------------------------------------------------------------------------------|------------------------------------------|
 | 1    | 19 Feb    | Introduction to Machine Learning                                              | `/week-1/intro-ml.ipynb`     |
 | 2    | 26 Feb    | What are neural networks? Intro to Perceptron. Basic shallow NN model.        | `/week-2/perceptron/`          |
