@@ -130,6 +130,7 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 - [Course Overviews](#course-overviews) 
 - [Architecture Applications](#architecture-applications) 
 - [Weekly Classes](#weekly-classes)
+- [Folder Structure](#folder-structure)
 - [Assessment](#assessment)
 - [Bibliographic References](#bibliographic-references)
 - [Sub-Repositories](#sub-repositories)
@@ -216,7 +217,7 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 <br><br>
 
 
-## [Folder Structure #folder-structure]()
+## [Folder Structure]() 
 
 
 <br>
