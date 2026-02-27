@@ -132,7 +132,7 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 - [Weekly Classes](#weekly-classes)
 - [Folder Structure](#folder-structure)
 - [Related Project Repositories](#related-project-repositories)
-- [Assessment](#assessment)
+- [Grading & Assessment](#grading--assessment)
 - [Bibliographic References](#bibliographic-references)
 - [Sub-Repositories](#sub-repositories)
 - [How to Use This Repo](#how-to-use-this-repo)
@@ -249,7 +249,34 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 
 <br><br>
 
-## [Assessment]()
+
+## [How to Use This Repo]()
+
+
+<br>
+
+[1.]() Clone: `git clone https://github.com/yourusername/PUC-SP-ML-Integrated-Project-2026.git`.  
+[2.]() Add weekly folders with `README.md`, `.ipynb`, `.py` files.  
+[3.]() For PyTorch (local/Apple M): `pip install torch`. Fast on M-chips!  
+[4.]() TensorFlow: `pip install tensorflow`.  
+[5.]() Run notebooks in Colab or Jupyter. Share publicly for extensionist credit. 
+
+
+<br><br>
+
+
+## [Grading & Assessment]()
+
+
+<br>
+
+
+| Component | Weight | Type |
+|-----------|--------|------|
+| Weekly Labs | 20% | Individual |
+| Projects | 40% | Team |
+| Presentations | 20% | Team |
+| Final Exam | 20% | Individual |
 
 
 <br>
@@ -265,21 +292,18 @@ Methods: Dialogued lectures, [TF]() / [PyTorch]() projects, active methodologies
 <br><br>
 
 
-## [How to Use This Repo]()
-
-
-<br>
-
-[1.]() Clone: `git clone https://github.com/yourusername/PUC-SP-ML-Integrated-Project-2026.git`.  
-[2.]() Add weekly folders with `README.md`, `.ipynb`, `.py` files.  
-[3.]() For PyTorch (local/Apple M): `pip install torch`. Fast on M-chips!  
-[4.]() TensorFlow: `pip install tensorflow`.  
-[5.]() Run notebooks in Colab or Jupyter. Share publicly for extensionist credit. 
 
 
 
 
-<br><br>
+
+
+
+
+
+
+
+
 
 
 ## [Bibliographic References]()
